@@ -1,3 +1,10 @@
+Use the following CF command to start the app:
+
+```cf push static-file-server -b paketo-buildpacks/procfile
+```
+
+
+
 # Procfile Static Webserver Sample Application
 
 ## Building
